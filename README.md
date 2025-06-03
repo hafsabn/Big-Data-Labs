@@ -36,5 +36,5 @@ Here are my solutions to lab assignments from the **Big Data** module during my 
 - Created DAGs for automated workflow management.
 
 
-
+---
 **Note**: Each lab folder includes a `PDF` file containing the original lab statement.
