@@ -1,6 +1,6 @@
 #  Big Data Labs
 
-Here are my solutions to lab assignments from the **Big Data** module during my university journey. These labs cover a wide range of big data technologies, from distributed computing with Hadoop and Spark to machine learning, graph processing..etc
+Here are my solutions to lab assignments from the **Big Data** module during my university journey. These labs cover a wide range of big data technologies, from distributed computing with Hadoop and Spark to machine learning, graph processing...etc
 
 ## Lab Overview
 
